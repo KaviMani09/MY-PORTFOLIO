@@ -28,13 +28,13 @@ const Resume = () => {
       company: "Kaashiv Infotech",
       link: "",
       date: "Frontend & Backend",
-      description: `➢ Programming Languages == JAVASCRIPT, PHP, MySQL
-                ➢ Web Technologies == HTML, CSS, PHP, JAVASCRIPT
-                ➢ Frameworks == BOOTSTRAP, REACT JS, TAILWINDCSS
-                ➢ Digital Marketing == SEO & SMM, EMAIL MARKETING
-                ➢ Database Technologies == BASIC OF MY SQL
-                ➢ Tools Technologies == VISUAL STUDIO CODE, NOTEPAD            
-                ➢ PackageS == MS-EXCEL, MS-WORD, MS-OFFICE`,
+      description: `➢ Programming Languages = JAVASCRIPT, PHP, MySQL
+                ➢ Web Technologies = HTML, CSS, PHP, JAVASCRIPT
+                ➢ Frameworks = BOOTSTRAP, REACT JS, TAILWINDCSS
+                ➢ Digital Marketing = SEO & SMM, EMAIL MARKETING
+                ➢ Database Technologies = BASIC OF MY SQL
+                ➢ Tools Technologies = VISUAL STUDIO CODE, NOTEPAD            
+                ➢ PackageS = MS-EXCEL, MS-WORD, MS-OFFICE`,
     },
     {
       title: "Certificate",
